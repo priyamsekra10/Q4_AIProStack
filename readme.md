@@ -2,7 +2,7 @@
 
 This project involves predicting Instagram caption for an image using a language model and estimating engagement metrics (likes, shares, saves) based on the predicted caption and other factors.
 
-![Image Description](Q4_output.png)
+![Image Description](output4.png)
 
 
 ## Overview
